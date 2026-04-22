@@ -1,0 +1,1 @@
+* **Member 3:** Issue #3 - 50% Complete Milestone - Title: feature/lab-1/research-on-star-schema. Description: Create a `warehouse_schema.md` describing a Star Schema.
