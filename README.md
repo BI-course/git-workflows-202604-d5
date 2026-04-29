@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6B-rL6oS)
 # Collaborative Git Workflows
 
 | Key              | Value                                                                                                                                                                                                                                                        |
@@ -15,3 +16,12 @@ Refer to the files in the order specified below for more details:
 
 - [lab_instructions_part1.md](lab_instructions_part1.md)
 - [lab_instructions_part2.md](lab_instructions_part2.md)
+
+
+Team Roles 
+<<<<<<< HEAD
+Member 1 - Mitesh  feature/lab-1/update-project-README.
+Member 2 - Elisha feature/lab-1/research-on-data-sources.
+Member 3 - Fardosa feature/lab-1/research-on-star-schema.
+Member 4 - Munene feature/lab-1/research-on-ETL-ELT-EtLT
+Member 5- Sumeya feature/lab-1/research-on-data-governance.
