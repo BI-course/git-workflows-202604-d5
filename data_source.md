@@ -1,0 +1,1 @@
+* **Member 2:** Issue #2 - 50% Complete Milestone - Title: feature/lab-1/research-on-data-sources. Description: Create a `data_source.md` file reviewing sources of data in a business.
