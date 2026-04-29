@@ -19,8 +19,16 @@ Refer to the files in the order specified below for more details:
 
 
 Team Roles 
+<<<<<<< HEAD
 Member 1 - Mitesh  feature/lab-1/update-project-README.
 Member 2 - Elisha feature/lab-1/research-on-data-sources.
 Member 3 - Fardosa feature/lab-1/research-on-star-schema.
 Member 4 - Munene feature/lab-1/research-on-ETL-ELT-EtLT
 Member 5- Sumeya feature/lab-1/research-on-data-governance.
+=======
+Member 1 - Mitesh feature/lab-1/update-project-README. 
+Member 2 - Elisha feature/lab-1/research-on-data-sources. 
+Member 3 - Fardosa feature/lab-1/research-on-star-schema. 
+Member 4 - Munene feature/lab-1/research-on-ETL-ELT-EtLT 
+Member 5- Sumeya feature/lab-1/research-on-data-governance.
+>>>>>>> main
