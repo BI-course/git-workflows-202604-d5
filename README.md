@@ -26,3 +26,4 @@ Member 3 - Fardosa feature/lab-1/research-on-star-schema.
 Member 4 - Munene feature/lab-1/research-on-ETL-ELT-EtLT
 Member 5- Sumeya feature/lab-1/research-on-data-governance.
 Project lead: Member 4 – responsible for overall coordination.
+Project lead: Member 4 — responsible for overall coordination.
