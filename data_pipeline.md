@@ -111,3 +111,4 @@ A *small* in-transit transformation (e.g., hashing a PII field, dropping a colum
 | **SOX** | Full audit trail of financial data transformations | ELT or EtLT |
 | **CCPA** | Consumer data deletion rights | ETL or EtLT |
 | **e-Discovery** | Raw data preservation for legal proceedings | ELT or EtLT |
+
